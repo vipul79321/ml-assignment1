@@ -2,7 +2,7 @@
 
 ## Instructions to submit
 
-Login into your GitHub account and fork this repo by clicking on the Fork button on the top right. You now need to clone the forked repository, complete the assignment, stage and commit the changes, and finally push the changes online. [This](https://try.github.io) interactive tutorial will help you cover the basics of Git. After doing all these steps, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdOfz8veM9h8P4sT0NRI5PV6_-xJH4enm3syeg7LZ2OR97aCg/viewform).
+Login into your GitHub account and fork this repo by clicking on the Fork button on the top right. You now need to clone the forked repository, complete the assignment, stage and commit the changes, and finally push the changes online. [This](https://try.github.io) interactive tutorial will help you cover the basics of Git. After doing all these step, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdOfz8veM9h8P4sT0NRI5PV6_-xJH4enm3syeg7LZ2OR97aCg/viewform).
 
 The commands given below will do the job.
 
